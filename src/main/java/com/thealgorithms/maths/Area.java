@@ -8,6 +8,7 @@ public class Area {
     public static void main(String[] args) {
 
         /* test cube */
+        int c:
         assert Double.compare(surfaceAreaCube(1), 6.0) == 0;
 
         /* test sphere */
